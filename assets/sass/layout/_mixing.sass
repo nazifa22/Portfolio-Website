@@ -1,0 +1,63 @@
+@mixin keyframes($name)
+  @-webkit-keyframes #{$name} 
+    @content
+  
+  @-moz-keyframes #{$name} 
+    @content
+
+  @-ms-keyframes #{$name} 
+    @content
+
+  @keyframes #{$name} 
+    @content
+
+@mixin selection
+    ::-moz-selection
+        @content
+    ::selection
+        @content
+
+@mixin border-radius($property)
+  -webkit-border-radius: $property
+      -ms-border-radius: $property
+          border-radius: $property
+
+
+@mixin transform($property)
+  -webkit-transform: $property
+      -ms-transform: $property
+          transform: $property 
+
+@mixin transition($property)
+  -webkit-transition: $property
+      -ms-transition: $property
+          transition: $property
+
+@mixin respond-to($media)
+    @if $media == handhelds
+        @media only screen and (max-width: $small-devices)
+            @content
+    
+    @else if $media == tablets
+        @media only screen and (min-width: $tablets) and (max-width: $landscape-tablets)
+            @content
+    
+    @else if $media == custom
+        @media only screen and (min-width: $tablets) and (max-width: $large-devices)
+            @content
+    
+    @else if $media == normalDevices
+        @media only screen and (min-width: $landscape-tablets+1)
+            @content
+    
+    @else if $media == smallDevices
+        @media only screen and (max-width: $landscape-tablets)
+            @content
+
+    @else if $media == smallDevices
+        @media only screen and (max-width: $landscape-tablets)
+            @content
+
+    @else if $media == mobileToTablets
+        @media only screen and (min-width: $custom) and (max-width: $large-devices)
+            @content

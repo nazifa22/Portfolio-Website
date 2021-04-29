@@ -1,0 +1,108 @@
+aside
+    background-color: black
+
+.personal_info 
+    overflow: hidden
+
+.image 
+    width: 100%
+    height: 500px
+    background-image: url(../../assets/images/IMG_2589.jpg)
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+    position: relative
+    @include transition(all 0.5s ease-in-out)
+    overflow: hidden
+
+    @include respond-to(mobileToTablets)
+        height: 800px
+
+    &:hover
+        @include transition(all 0.5s ease-in-out)
+        @include transform(scale(1.07))
+
+    .info 
+        position: absolute
+        bottom: 0
+        width: 100%
+        background: rgba(0,0,0,0.5)
+        padding: 20px
+        height: 115px
+
+        h4
+            margin-bottom: 0
+            font-family: $title_font_primary
+        
+        p 
+            letter-spacing: 3px
+            font-weight: 400
+            margin-bottom: 0
+
+        .social
+            a
+                color: white
+                text-decoration: none
+
+                &:not(:last-child)
+                    margin-right: 10px
+
+            i
+                @include transition(all 0.5s ease-in-out)
+                cursor: pointer
+                font-size: 12px
+                color: $lilac
+
+                &:hover 
+                    color: $lilac
+                    @include transform(scale(1.3))
+
+@include keyframes(sparkle)
+    0% 
+        @include transform(scale(1))
+    
+    50% 
+        @include transform(scale(1.5))
+    
+    100% 
+      @include transform(scale(1))
+
+.smiley
+    animation-name: sparkle
+    animation-duration: 3s
+    animation-iteration-count: infinite
+    animation-timing-function: linear
+    color: $lilac
+
+.about_me
+    font-size: 15px
+    font-weight: 400
+
+    span
+        font-size: 15px
+        font-weight: 400
+
+    .freelance
+        font-style: italic
+ 
+.skills 
+    p
+        margin-bottom: 2px
+
+    .progress
+        height: 4px
+
+        &:not(:last-child)
+            margin-bottom: 12px
+
+        .progress-bar
+            background-color: $cod_gray
+
+.download_btn
+    @include transition(all 0.5s ease-in-out)
+    background-color: $lilac
+    color: black
+
+    &:hover
+        @include transition(all 0.5s ease-in-out)
+        @include transform(translateY(3px))
