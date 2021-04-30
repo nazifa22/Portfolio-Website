@@ -1,0 +1,59 @@
+@for $i from 1 through 9
+    .color-#{$i}-bar 
+        @include selection
+            background: nth($colors, $i) !important
+
+        .social
+            i
+                color: nth($colors, $i) !important
+
+                &::after
+                    background-color: nth($colors, $i) !important
+
+        .smiley
+            color: nth($colors, $i) !important
+        
+        .skills 
+            h3
+                &::after
+                    background: nth($colors, $i) !important
+
+        .download_btn
+            background: nth($colors, $i) !important
+
+        .work_experience
+            h2
+                &::after
+                    background: nth($colors, $i) !important
+
+            .workplace
+                span
+                    color: nth($colors, $i) !important
+                
+                a
+                    color: nth($colors, $i) !important
+            
+        .education
+            h2
+                &::after
+                    background: nth($colors, $i) !important
+
+            .timeline
+                border-left: 3px solid nth($colors, $i)
+                
+                .event
+                    &::after
+                        -webkit-box-shadow: 0 0 0 3px nth($colors, $i)
+                        box-shadow: 0 0 0 3px nth($colors, $i)
+
+            .rtl 
+                .timeline
+                    border-right: 3px solid nth($colors, $i)
+
+        .achivements
+            h2
+                &::after
+                    background: nth($colors, $i) !important
+            
+            i
+                color: nth($colors, $i) !important
