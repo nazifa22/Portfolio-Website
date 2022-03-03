@@ -1,1 +1,1131 @@
-@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&family=Truculenta&display=swap");@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&family=Truculenta&display=swap");*{margin:0;padding:0;box-sizing:border-box;font-weight:bold;font-family:"Truculenta",sans-serif}img{width:100%;cursor:pointer}html{scroll-behavior:smooth}body{position:relative;transition:all 0.7s ease}a{transition:all 0.7s ease}a:hover{text-decoration:none;transition:all 0.7s ease}img{transition:all 0.7s ease}img:hover{transition:all 0.7s ease;transform:scale(0.9,0.9)}div{font-weight:400}p{font-weight:400}.color-1-bar ::selection{background:#727cf5!important}.color-1-bar .social i{color:#727cf5!important}.color-1-bar .social i:after{background-color:#727cf5!important}.color-1-bar .smiley{color:#727cf5!important}.color-1-bar .skills h3:after{background:#727cf5!important}.color-1-bar .download_btn{background:#727cf5!important}.color-1-bar .work_experience h2:after{background:#727cf5!important}.color-1-bar .work_experience .workplace span{color:#727cf5!important}.color-1-bar .work_experience .workplace a{color:#727cf5!important}.color-1-bar .education h2:after{background:#727cf5!important}.color-1-bar .education .timeline{border-left:3px solid #727cf5}.color-1-bar .education .timeline .event:after{box-shadow:0 0 0 3px #727cf5}.color-1-bar .education .rtl .timeline{border-right:3px solid #727cf5}.color-1-bar .achivements h2:after{background:#727cf5!important}.color-1-bar .achivements i{color:#727cf5!important}.color-2-bar ::selection{background:#04D2F7!important}.color-2-bar .social i{color:#04D2F7!important}.color-2-bar .social i:after{background-color:#04D2F7!important}.color-2-bar .smiley{color:#04D2F7!important}.color-2-bar .skills h3:after{background:#04D2F7!important}.color-2-bar .download_btn{background:#04D2F7!important}.color-2-bar .work_experience h2:after{background:#04D2F7!important}.color-2-bar .work_experience .workplace span{color:#04D2F7!important}.color-2-bar .work_experience .workplace a{color:#04D2F7!important}.color-2-bar .education h2:after{background:#04D2F7!important}.color-2-bar .education .timeline{border-left:3px solid #04D2F7}.color-2-bar .education .timeline .event:after{box-shadow:0 0 0 3px #04D2F7}.color-2-bar .education .rtl .timeline{border-right:3px solid #04D2F7}.color-2-bar .achivements h2:after{background:#04D2F7!important}.color-2-bar .achivements i{color:#04D2F7!important}.color-3-bar ::selection{background:#4949F3!important}.color-3-bar .social i{color:#4949F3!important}.color-3-bar .social i:after{background-color:#4949F3!important}.color-3-bar .smiley{color:#4949F3!important}.color-3-bar .skills h3:after{background:#4949F3!important}.color-3-bar .download_btn{background:#4949F3!important}.color-3-bar .work_experience h2:after{background:#4949F3!important}.color-3-bar .work_experience .workplace span{color:#4949F3!important}.color-3-bar .work_experience .workplace a{color:#4949F3!important}.color-3-bar .education h2:after{background:#4949F3!important}.color-3-bar .education .timeline{border-left:3px solid #4949F3}.color-3-bar .education .timeline .event:after{box-shadow:0 0 0 3px #4949F3}.color-3-bar .education .rtl .timeline{border-right:3px solid #4949F3}.color-3-bar .achivements h2:after{background:#4949F3!important}.color-3-bar .achivements i{color:#4949F3!important}.color-4-bar ::selection{background:#F70077!important}.color-4-bar .social i{color:#F70077!important}.color-4-bar .social i:after{background-color:#F70077!important}.color-4-bar .smiley{color:#F70077!important}.color-4-bar .skills h3:after{background:#F70077!important}.color-4-bar .download_btn{background:#F70077!important}.color-4-bar .work_experience h2:after{background:#F70077!important}.color-4-bar .work_experience .workplace span{color:#F70077!important}.color-4-bar .work_experience .workplace a{color:#F70077!important}.color-4-bar .education h2:after{background:#F70077!important}.color-4-bar .education .timeline{border-left:3px solid #F70077}.color-4-bar .education .timeline .event:after{box-shadow:0 0 0 3px #F70077}.color-4-bar .education .rtl .timeline{border-right:3px solid #F70077}.color-4-bar .achivements h2:after{background:#F70077!important}.color-4-bar .achivements i{color:#F70077!important}.color-5-bar ::selection{background:#F60195!important}.color-5-bar .social i{color:#F60195!important}.color-5-bar .social i:after{background-color:#F60195!important}.color-5-bar .smiley{color:#F60195!important}.color-5-bar .skills h3:after{background:#F60195!important}.color-5-bar .download_btn{background:#F60195!important}.color-5-bar .work_experience h2:after{background:#F60195!important}.color-5-bar .work_experience .workplace span{color:#F60195!important}.color-5-bar .work_experience .workplace a{color:#F60195!important}.color-5-bar .education h2:after{background:#F60195!important}.color-5-bar .education .timeline{border-left:3px solid #F60195}.color-5-bar .education .timeline .event:after{box-shadow:0 0 0 3px #F60195}.color-5-bar .education .rtl .timeline{border-right:3px solid #F60195}.color-5-bar .achivements h2:after{background:#F60195!important}.color-5-bar .achivements i{color:#F60195!important}.color-6-bar ::selection{background:#C62EF7!important}.color-6-bar .social i{color:#C62EF7!important}.color-6-bar .social i:after{background-color:#C62EF7!important}.color-6-bar .smiley{color:#C62EF7!important}.color-6-bar .skills h3:after{background:#C62EF7!important}.color-6-bar .download_btn{background:#C62EF7!important}.color-6-bar .work_experience h2:after{background:#C62EF7!important}.color-6-bar .work_experience .workplace span{color:#C62EF7!important}.color-6-bar .work_experience .workplace a{color:#C62EF7!important}.color-6-bar .education h2:after{background:#C62EF7!important}.color-6-bar .education .timeline{border-left:3px solid #C62EF7}.color-6-bar .education .timeline .event:after{box-shadow:0 0 0 3px #C62EF7}.color-6-bar .education .rtl .timeline{border-right:3px solid #C62EF7}.color-6-bar .achivements h2:after{background:#C62EF7!important}.color-6-bar .achivements i{color:#C62EF7!important}.color-7-bar ::selection{background:#FF6701!important}.color-7-bar .social i{color:#FF6701!important}.color-7-bar .social i:after{background-color:#FF6701!important}.color-7-bar .smiley{color:#FF6701!important}.color-7-bar .skills h3:after{background:#FF6701!important}.color-7-bar .download_btn{background:#FF6701!important}.color-7-bar .work_experience h2:after{background:#FF6701!important}.color-7-bar .work_experience .workplace span{color:#FF6701!important}.color-7-bar .work_experience .workplace a{color:#FF6701!important}.color-7-bar .education h2:after{background:#FF6701!important}.color-7-bar .education .timeline{border-left:3px solid #FF6701}.color-7-bar .education .timeline .event:after{box-shadow:0 0 0 3px #FF6701}.color-7-bar .education .rtl .timeline{border-right:3px solid #FF6701}.color-7-bar .achivements h2:after{background:#FF6701!important}.color-7-bar .achivements i{color:#FF6701!important}.color-8-bar ::selection{background:#E4FD0D!important}.color-8-bar .social i{color:#E4FD0D!important}.color-8-bar .social i:after{background-color:#E4FD0D!important}.color-8-bar .smiley{color:#E4FD0D!important}.color-8-bar .skills h3:after{background:#E4FD0D!important}.color-8-bar .download_btn{background:#E4FD0D!important}.color-8-bar .work_experience h2:after{background:#E4FD0D!important}.color-8-bar .work_experience .workplace span{color:#E4FD0D!important}.color-8-bar .work_experience .workplace a{color:#E4FD0D!important}.color-8-bar .education h2:after{background:#E4FD0D!important}.color-8-bar .education .timeline{border-left:3px solid #E4FD0D}.color-8-bar .education .timeline .event:after{box-shadow:0 0 0 3px #E4FD0D}.color-8-bar .education .rtl .timeline{border-right:3px solid #E4FD0D}.color-8-bar .achivements h2:after{background:#E4FD0D!important}.color-8-bar .achivements i{color:#E4FD0D!important}.color-9-bar ::selection{background:#9EF700!important}.color-9-bar .social i{color:#9EF700!important}.color-9-bar .social i:after{background-color:#9EF700!important}.color-9-bar .smiley{color:#9EF700!important}.color-9-bar .skills h3:after{background:#9EF700!important}.color-9-bar .download_btn{background:#9EF700!important}.color-9-bar .work_experience h2:after{background:#9EF700!important}.color-9-bar .work_experience .workplace span{color:#9EF700!important}.color-9-bar .work_experience .workplace a{color:#9EF700!important}.color-9-bar .education h2:after{background:#9EF700!important}.color-9-bar .education .timeline{border-left:3px solid #9EF700}.color-9-bar .education .timeline .event:after{box-shadow:0 0 0 3px #9EF700}.color-9-bar .education .rtl .timeline{border-right:3px solid #9EF700}.color-9-bar .achivements h2:after{background:#9EF700!important}.color-9-bar .achivements i{color:#9EF700!important}aside{background-color:black}.personal_info{overflow:hidden}.image{width:100%;height:500px;background-image:url(../../assets/images/IMG_2589.jpg);background-size:cover;background-position:center;background-repeat:no-repeat;position:relative;-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out;overflow:hidden;cursor:pointer}@media only screen and (min-width:500px) and (max-width:992px){.image{height:800px}}.image:hover{-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out;-webkit-transform:scale(1.03);-webkit-transform--ms-transform:scale(1.03);-webkit-transform--ms-transform-transform:scale(1.03)}.image .info{position:absolute;bottom:0;width:100%;background:rgba(0,0,0,0.5);padding:20px;height:115px}.image .info h4{margin-bottom:0;font-family:"Great Vibes",cursive}.image .info p{letter-spacing:3px;font-weight:400;margin-bottom:0}.image .info .social a{color:white;text-decoration:none}.image .info .social a:not(:last-child){margin-right:10px}.image .info .social i{-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out;cursor:pointer;font-size:14px;color:#727cf5}.image .info .social i:hover{color:#727cf5;-webkit-transform:scale(1.3);-webkit-transform--ms-transform:scale(1.3);-webkit-transform--ms-transform-transform:scale(1.3)}@keyframes sparkle{0%{-webkit-transform:scale(1);-webkit-transform--ms-transform:scale(1);-webkit-transform--ms-transform-transform:scale(1)}50%{-webkit-transform:scale(1.5);-webkit-transform--ms-transform:scale(1.5);-webkit-transform--ms-transform-transform:scale(1.5)}to{-webkit-transform:scale(1);-webkit-transform--ms-transform:scale(1);-webkit-transform--ms-transform-transform:scale(1)}}.smiley{animation-name:sparkle;animation-duration:3s;animation-iteration-count:infinite;animation-timing-function:linear;color:#727cf5}.about_me{font-size:15px;font-weight:400}.about_me span{font-size:15px;font-weight:400}.about_me .freelance{font-style:italic}.skills h3{position:relative;padding-bottom:10px}.skills h3:after{content:"";position:absolute;width:6%;height:4px;background-color:#727cf5;left:0;bottom:0}.skills p{margin-bottom:2px}.skills .progress{height:4px}.skills .progress:not(:last-child){margin-bottom:12px}.skills .progress .progress-bar{background-color:#111}.download_btn{-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out;background-color:#727cf5!important;color:black}.download_btn:hover{color:black;-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out;-webkit-transform:translateY(3px);-webkit-transform--ms-transform:translateY(3px);-webkit-transform--ms-transform-transform:translateY(3px)}.work_experience{background-color:black}.work_experience h2{position:relative;padding-bottom:10px}.work_experience h2:after{content:"";position:absolute;width:6%;height:4px;background-color:#727cf5;left:0;bottom:0}.work_experience .workplace h4{margin-bottom:0}.work_experience .workplace span{font-size:14px;color:#727cf5;font-family:"Satisfy",cursive;letter-spacing:1px}.work_experience .workplace p{font-size:16px;margin-top:10px}.work_experience .workplace a{color:#727cf5;text-decoration:none;font-style:italic;font-weight:400}.education{background-color:black}.education h2{position:relative;padding-bottom:10px}.education h2:after{content:"";position:absolute;width:6%;height:4px;background-color:#727cf5;left:0;bottom:0}.education .timeline{border-left:3px solid #727cf5;border-bottom-right-radius:4px;border-top-right-radius:4px;background:rgba(114,124,245,0.09);margin:0 0 0 auto;position:relative;font-size:1.03em;padding:10px 20px;list-style:none;text-align:left;max-width:80%}@media (max-width:767px){.education .timeline{max-width:98%;padding:25px}}.education .timeline h1{font-weight:300;font-size:1.4em}.education .timeline h2,.education .timeline h3{font-weight:500;font-size:1.5rem;margin-bottom:10px}.education .timeline .event{border-bottom:1px dashed #e8ebf1;padding-bottom:25px;margin-bottom:25px;position:relative}.education .timeline .event p{margin-bottom:0}@media (max-width:767px){.education .timeline .event{padding-top:30px}}.education .timeline .event:last-of-type{padding-bottom:0;margin-bottom:0;border:none}.education .timeline .event:after,.education .timeline .event:before{position:absolute;display:block;top:0}.education .timeline .event:before{left:-200px;content:attr(data-date);text-align:right;font-weight:100;font-size:0.9em;min-width:120px}.education .timeline .event:after{box-shadow:0 0 0 3px #727cf5;left:-26px;background:#fff;border-radius:50%;height:9px;width:9px;content:"";top:5px}@media (max-width:767px){.education .timeline .event:before{left:0px;text-align:left}}@media (max-width:767px){.education .timeline .event:after{left:-31.8px}}.education .rtl .timeline{border-left:0;text-align:right;border-bottom-right-radius:0;border-top-right-radius:0;border-bottom-left-radius:4px;border-top-left-radius:4px;border-right:3px solid #727cf5}.education .rtl .timeline .event:before{left:0;right:-170px}.education .rtl .timeline .event:after{left:0;right:-55.8px}.achivements{background-color:black}.achivements h2{position:relative;padding-bottom:10px}.achivements h2:after{content:"";position:absolute;width:6%;height:4px;background-color:#727cf5;left:0;bottom:0}.achivements i{color:#727cf5;font-size:30px;animation-name:sparkle;animation-duration:3s;animation-iteration-count:infinite;animation-timing-function:linear}.achivements p{font-size:22px;margin-bottom:5px}.achivements span{font-size:14px;font-weight:400}@keyframes sparkle{0%{-webkit-transform:scale(1);-webkit-transform--ms-transform:scale(1);-webkit-transform--ms-transform-transform:scale(1)}50%{-webkit-transform:scale(1.3);-webkit-transform--ms-transform:scale(1.3);-webkit-transform--ms-transform-transform:scale(1.3)}to{-webkit-transform:scale(1);-webkit-transform--ms-transform:scale(1);-webkit-transform--ms-transform-transform:scale(1)}}::selection{color:white;background:#727cf5}body{background-color:#111;color:white}.footer{background-color:black;text-align:center;font-size:20px}.demo_pannel_box{position:fixed;width:50px;height:50px;display:block;top:180px;left:0;text-align:center;background:white;z-index:9999;border-top-right-radius:6px;border-bottom-right-radius:6px}.demo_pannel_box .color_pannel_box{width:100%;height:100%}.demo_pannel_box .color_pannel_box .icon{display:flex;justify-content:center;align-items:center;height:100%}.demo_pannel_box .color_pannel_box .icon i{color:black;font-size:22px}.demo_pannel_box .color_pannel_box .color_bar{width:250px;display:grid;grid-template-columns:auto auto auto;background:#fff;justify-content:space-between;grid-column-gap:0;grid-row-gap:10px;padding:20px;-webkit-transform:translate(-250px,0px);-webkit-transform--ms-transform:translate(-250px,0px);-webkit-transform--ms-transform-transform:translate(-250px,0px);-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out}.demo_pannel_box .color_pannel_box .color_bar span{width:60px;height:60px;display:block;cursor:pointer}.demo_pannel_box .color_pannel_box .color_bar .color-1{background-color:#727cf5}.demo_pannel_box .color_pannel_box .color_bar .color-2{background-color:#04D2F7}.demo_pannel_box .color_pannel_box .color_bar .color-3{background-color:#4949F3}.demo_pannel_box .color_pannel_box .color_bar .color-4{background-color:#F70077}.demo_pannel_box .color_pannel_box .color_bar .color-5{background-color:#F60195}.demo_pannel_box .color_pannel_box .color_bar .color-6{background-color:#C62EF7}.demo_pannel_box .color_pannel_box .color_bar .color-7{background-color:#FF6701}.demo_pannel_box .color_pannel_box .color_bar .color-8{background-color:#E4FD0D}.demo_pannel_box .color_pannel_box .color_bar .color-9{background-color:#9EF700}.demo_pannel_box .color_pannel_box .inout{-webkit-transform:translate(0px,0px)!important;-webkit-transform--ms-transform:translate(0px,0px)!important;-webkit-transform--ms-transform-transform:translate(0px,0px)!important;-webkit-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition:all 0.5s ease-in-out;-webkit-transition--ms-transition-transition:all 0.5s ease-in-out}
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&family=Truculenta&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&family=Truculenta&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Truculenta", sans-serif
+}
+
+img {
+    width: 100%;
+    cursor: pointer
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+body {
+    position: relative;
+    transition: all 0.7s ease;
+    background-color: #000;
+    color: white;
+}
+
+a {
+    transition: all 0.7s ease
+}
+
+a:hover {
+    text-decoration: none;
+    transition: all 0.7s ease
+}
+
+img {
+    transition: all 0.7s ease
+}
+
+img:hover {
+    transition: all 0.7s ease;
+    transform: scale(0.9, 0.9)
+}
+
+div {
+    font-weight: 400
+}
+
+p {
+    font-weight: 400;
+}
+
+.color-1-bar ::selection {
+    background: #727cf5 !important
+}
+
+.color-1-bar .social i {
+    color: #727cf5 !important
+}
+
+.color-1-bar .social i:after {
+    background-color: #727cf5 !important
+}
+
+.color-1-bar .smiley {
+    color: #727cf5 !important
+}
+
+.color-1-bar .skills h3:after {
+    background: #727cf5 !important
+}
+
+.color-1-bar .download_btn {
+    background: #727cf5 !important
+}
+
+.color-1-bar .work_experience h2:after {
+    background: #727cf5 !important
+}
+
+.color-1-bar .work_experience .workplace span {
+    color: #727cf5 !important
+}
+
+/* .color-1-bar .work_experience .workplace a {
+    color: #727cf5 !important
+} */
+
+.color-1-bar .education h2:after {
+    background: #727cf5 !important
+}
+
+.color-1-bar .education .timeline {
+    border-left: 3px solid #727cf5
+}
+
+.color-1-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #727cf5
+}
+
+.color-1-bar .education .rtl .timeline {
+    border-right: 3px solid #727cf5
+}
+
+.color-1-bar .achivements h2:after {
+    background: #727cf5 !important
+}
+
+.color-1-bar .achivements i {
+    /* color: #727cf5 !important */
+}
+
+.color-2-bar ::selection {
+    background: #01C5C4!important
+}
+
+.color-2-bar .social i {
+    color: #01C5C4!important
+}
+
+.color-2-bar .social i:after {
+    background-color: #01C5C4!important
+}
+
+.color-2-bar .smiley {
+    color: #01C5C4!important
+}
+
+.color-2-bar .skills h3:after {
+    background: #01C5C4!important
+}
+
+.color-2-bar .download_btn {
+    background: #01C5C4!important
+}
+
+.color-2-bar .work_experience h2:after {
+    background: #01C5C4!important
+}
+
+.color-2-bar .work_experience .workplace span {
+    color: #01C5C4!important
+}
+
+/* .color-2-bar .work_experience .workplace a {
+    color: #01C5C4!important
+} */
+
+.color-2-bar .education h2:after {
+    background: #01C5C4!important
+}
+
+.color-2-bar .education .timeline {
+    border-left: 3px solid #01C5C4
+}
+
+.color-2-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #01C5C4
+}
+
+.color-2-bar .education .rtl .timeline {
+    border-right: 3px solid #01C5C4
+}
+
+.color-2-bar .achivements h2:after {
+    background: #01C5C4!important
+}
+
+.color-2-bar .achivements i {
+    /* color: #01C5C4!important */
+}
+
+.color-3-bar ::selection {
+    background: #32AFA9 !important
+}
+
+.color-3-bar .social i {
+    color: #32AFA9 !important
+}
+
+.color-3-bar .social i:after {
+    background-color: #32AFA9 !important
+}
+
+.color-3-bar .smiley {
+    color: #32AFA9 !important
+}
+
+.color-3-bar .skills h3:after {
+    background: #32AFA9 !important
+}
+
+.color-3-bar .download_btn {
+    background: #32AFA9 !important;
+    color: white !important;
+}
+
+.color-3-bar .work_experience h2:after {
+    background: #32AFA9 !important
+}
+
+.color-3-bar .work_experience .workplace span {
+    color: #32AFA9 !important
+}
+
+/* .color-3-bar .work_experience .workplace a {
+    color: #32AFA9 !important
+} */
+
+.color-3-bar .education h2:after {
+    background: #32AFA9 !important
+}
+
+.color-3-bar .education .timeline {
+    border-left: 3px solid #32AFA9
+}
+
+.color-3-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #32AFA9
+}
+
+.color-3-bar .education .rtl .timeline {
+    border-right: 3px solid #32AFA9
+}
+
+.color-3-bar .achivements h2:after {
+    background: #32AFA9 !important
+}
+
+.color-3-bar .achivements i {
+    /* color: #32AFA9 !important */
+}
+
+.color-4-bar ::selection {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .social i {
+    color: #D8AC9C !important
+}
+
+.color-4-bar .social i:after {
+    background-color: #D8AC9C !important
+}
+
+.color-4-bar .smiley {
+    color: #D8AC9C !important
+}
+
+.color-4-bar .skills h3:after {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .download_btn {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .work_experience h2:after {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .work_experience .workplace span {
+    color: #D8AC9C !important
+}
+
+/* .color-4-bar .work_experience .workplace a {
+    color: #D8AC9C !important
+} */
+
+.color-4-bar .education h2:after {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .education .timeline {
+    border-left: 3px solid #D8AC9C
+}
+
+.color-4-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #D8AC9C
+}
+
+.color-4-bar .education .rtl .timeline {
+    border-right: 3px solid #D8AC9C
+}
+
+.color-4-bar .achivements h2:after {
+    background: #D8AC9C !important
+}
+
+.color-4-bar .achivements i {
+    /* color: #D8AC9C !important */
+}
+
+.color-5-bar ::selection {
+    background: #B7657B !important
+}
+
+.color-5-bar .social i {
+    color: #B7657B !important
+}
+
+.color-5-bar .social i:after {
+    background-color: #B7657B !important
+}
+
+.color-5-bar .smiley {
+    color: #B7657B !important
+}
+
+.color-5-bar .skills h3:after {
+    background: #B7657B !important
+}
+
+.color-5-bar .download_btn {
+    background: #B7657B !important;
+    color: white !important;
+}
+
+.color-5-bar .work_experience h2:after {
+    background: #B7657B !important
+}
+
+.color-5-bar .work_experience .workplace span {
+    color: #B7657B !important
+}
+
+/* .color-5-bar .work_experience .workplace a {
+    color: #B7657B !important
+} */
+
+.color-5-bar .education h2:after {
+    background: #B7657B !important
+}
+
+.color-5-bar .education .timeline {
+    border-left: 3px solid #B7657B
+}
+
+.color-5-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #B7657B
+}
+
+.color-5-bar .education .rtl .timeline {
+    border-right: 3px solid #B7657B
+}
+
+.color-5-bar .achivements h2:after {
+    background: #B7657B !important
+}
+
+.color-5-bar .achivements i {
+    /* color: #B7657B !important */
+}
+
+.color-6-bar ::selection {
+    background: #96BB7C !important
+}
+
+.color-6-bar .social i {
+    color: #96BB7C !important
+}
+
+.color-6-bar .social i:after {
+    background-color: #96BB7C !important
+}
+
+.color-6-bar .smiley {
+    color: #96BB7C !important
+}
+
+.color-6-bar .skills h3:after {
+    background: #96BB7C !important
+}
+
+.color-6-bar .download_btn {
+    background: #96BB7C !important;
+    color: white;
+}
+
+.color-6-bar .work_experience h2:after {
+    background: #96BB7C !important
+}
+
+.color-6-bar .work_experience .workplace span {
+    color: #96BB7C !important
+}
+
+/* .color-6-bar .work_experience .workplace a {
+    color: #96BB7C !important
+} */
+
+.color-6-bar .education h2:after {
+    background: #96BB7C !important
+}
+
+.color-6-bar .education .timeline {
+    border-left: 3px solid #96BB7C
+}
+
+.color-6-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #96BB7C
+}
+
+.color-6-bar .education .rtl .timeline {
+    border-right: 3px solid #96BB7C
+}
+
+.color-6-bar .achivements h2:after {
+    background: #96BB7C !important
+}
+
+.color-6-bar .achivements i {
+    /* color: #96BB7C !important */
+}
+
+.color-7-bar ::selection {
+    background: #666 !important
+}
+
+.color-7-bar .social i {
+    color: #666 !important
+}
+
+.color-7-bar .social i:after {
+    background-color: #666 !important
+}
+
+.color-7-bar .smiley {
+    color: #666 !important
+}
+
+.color-7-bar .skills h3:after {
+    background: #666 !important
+}
+
+.color-7-bar .download_btn {
+    background: #666 !important;
+    color: white !important;
+}
+
+.color-7-bar .work_experience h2:after {
+    background: #666 !important
+}
+
+.color-7-bar .work_experience .workplace span {
+    color: #666 !important
+}
+
+/* .color-7-bar .work_experience .workplace a {
+    color: #666 !important
+} */
+
+.color-7-bar .education h2:after {
+    background: #666 !important
+}
+
+.color-7-bar .education .timeline {
+    border-left: 3px solid #666
+}
+
+.color-7-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #666
+}
+
+.color-7-bar .education .rtl .timeline {
+    border-right: 3px solid #666
+}
+
+.color-7-bar .achivements h2:after {
+    background: #666 !important
+}
+
+.color-7-bar .achivements i {
+    /* color: #666 !important */
+}
+
+.color-8-bar ::selection {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .social i {
+    color: #F0EBCC !important
+}
+
+.color-8-bar .social i:after {
+    background-color: #F0EBCC !important
+}
+
+.color-8-bar .smiley {
+    color: #F0EBCC !important
+}
+
+.color-8-bar .skills h3:after {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .download_btn {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .work_experience h2:after {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .work_experience .workplace span {
+    color: #F0EBCC !important
+}
+
+/* .color-8-bar .work_experience .workplace a {
+    color: #F0EBCC !important
+} */
+
+.color-8-bar .education h2:after {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .education .timeline {
+    border-left: 3px solid #F0EBCC
+}
+
+.color-8-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #F0EBCC
+}
+
+.color-8-bar .education .rtl .timeline {
+    border-right: 3px solid #F0EBCC
+}
+
+.color-8-bar .achivements h2:after {
+    background: #F0EBCC !important
+}
+
+.color-8-bar .achivements i {
+    /* color: #F0EBCC !important */
+}
+
+.color-9-bar ::selection {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .social i {
+    color: #EEEDDE !important
+}
+
+.color-9-bar .social i:after {
+    background-color: #EEEDDE !important
+}
+
+.color-9-bar .smiley {
+    color: #EEEDDE !important
+}
+
+.color-9-bar .skills h3:after {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .download_btn {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .work_experience h2:after {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .work_experience .workplace span {
+    color: #EEEDDE !important
+}
+
+/* .color-9-bar .work_experience .workplace a {
+    color: #EEEDDE !important
+} */
+
+.color-9-bar .education h2:after {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .education .timeline {
+    border-left: 3px solid #EEEDDE
+}
+
+.color-9-bar .education .timeline .event:after {
+    box-shadow: 0 0 0 3px #EEEDDE
+}
+
+.color-9-bar .education .rtl .timeline {
+    border-right: 3px solid #EEEDDE
+}
+
+.color-9-bar .achivements h2:after {
+    background: #EEEDDE !important
+}
+
+.color-9-bar .achivements i {
+    /* color: #EEEDDE !important */
+}
+
+aside {
+    background-color: black
+}
+
+.personal_info {
+    overflow: hidden
+}
+
+.image {
+    width: 100%;
+    height: 500px;
+    background-image: url(../../assets/images/IMG_2589.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out;
+    overflow: hidden;
+    cursor: pointer
+}
+
+@media only screen and (min-width:500px) and (max-width:992px) {
+    .image {
+        height: 800px
+    }
+}
+
+.image:hover {
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out;
+    -webkit-transform: scale(1.03);
+    -webkit-transform--ms-transform: scale(1.03);
+    -webkit-transform--ms-transform-transform: scale(1.03)
+}
+
+.image .info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    height: 115px
+}
+
+.image .info h4 {
+    margin-bottom: 0;
+    font-family: "Great Vibes", cursive
+}
+
+.image .info p {
+    font-weight: 400;
+    margin-bottom: 0
+}
+
+.image .info .social a {
+    color: white;
+    text-decoration: none
+}
+
+.image .info .social a:not(:last-child) {
+    margin-right: 10px
+}
+
+.image .info .social i {
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out;
+    cursor: pointer;
+    font-size: 14px;
+    color: #727cf5
+}
+
+.image .info .social i:hover {
+    color: #727cf5;
+    -webkit-transform: scale(1.3);
+    -webkit-transform--ms-transform: scale(1.3);
+    -webkit-transform--ms-transform-transform: scale(1.3)
+}
+
+@keyframes sparkle {
+    0% {
+        -webkit-transform: scale(.8);
+        -webkit-transform--ms-transform: scale(.8);
+        -webkit-transform--ms-transform-transform: scale(.8)
+    }
+
+    50% {
+        -webkit-transform: scale(1);
+        -webkit-transform--ms-transform: scale(1);
+        -webkit-transform--ms-transform-transform: scale(1)
+    }
+
+    to {
+        -webkit-transform: scale(.8);
+        -webkit-transform--ms-transform: scale(.8);
+        -webkit-transform--ms-transform-transform: scale(.8)
+    }
+}
+
+.smiley {
+    animation-name: sparkle;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    color: #727cf5
+}
+
+.about_me {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.about_me span {
+    font-size: 15px;
+    font-weight: 400
+}
+
+.about_me .freelance {
+    font-style: italic
+}
+
+.skills h3 {
+    position: relative;
+    padding-bottom: 10px
+}
+
+.skills h3:after {
+    content: "";
+    position: absolute;
+    width: 6%;
+    height: 4px;
+    background-color: #727cf5;
+    left: 0;
+    bottom: 0
+}
+
+.skills p {
+    margin-bottom: 2px
+}
+
+.skills .progress {
+    height: 4px
+}
+
+.skills .progress:not(:last-child) {
+    margin-bottom: 12px
+}
+
+.skills .progress .progress-bar {
+    background-color: #111
+}
+
+.download_btn {
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out;
+    background-color: #727cf5 !important;
+    color: black;
+    font-size: 14px;
+    padding: 10px 22px;
+}
+
+.download_btn:hover {
+    color: black;
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out;
+    -webkit-transform: translateY(3px);
+    -webkit-transform--ms-transform: translateY(3px);
+    -webkit-transform--ms-transform-transform: translateY(3px)
+}
+
+.work_experience {
+    background-color: #121212
+}
+
+.work_experience h2 {
+    position: relative;
+    padding-bottom: 10px
+}
+
+.work_experience h2:after {
+    content: "";
+    position: absolute;
+    width: 6%;
+    height: 4px;
+    background-color: #727cf5;
+    left: 0;
+    bottom: 0
+}
+
+.work_experience .workplace h4 {
+    margin-bottom: 0
+}
+
+.work_experience .workplace span {
+    font-size: 14px;
+    color: #727cf5;
+    font-family: "Satisfy", cursive;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+.work_experience .workplace p {
+    font-size: 12px;
+    line-height: 28px;
+    margin-top: 20px;
+    color: #d9d9d9;
+}
+
+.work_experience .workplace a {
+    /* color: #fff; */
+    color: #d9d9d9;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.education {
+    background-color: #121212
+}
+
+.education h2 {
+    position: relative;
+    padding-bottom: 10px
+}
+
+.education h2:after {
+    content: "";
+    position: absolute;
+    width: 6%;
+    height: 4px;
+    background-color: #727cf5;
+    left: 0;
+    bottom: 0
+}
+
+.education .timeline {
+    border-left: 3px solid #727cf5;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    background: rgba(0, 0, 0, 0.2);
+    margin: 0 0 0 auto;
+    position: relative;
+    font-size: 1.03em;
+    padding: 10px 20px;
+    list-style: none;
+    text-align: left;
+    max-width: 80%
+}
+
+.education .card-body {
+    padding: 2rem 2rem 2rem 0;
+}
+
+@media (max-width:767px) {
+    .education .timeline {
+        max-width: 98%;
+        padding: 25px
+    }
+}
+
+.education .timeline h1 {
+    font-weight: 300;
+    font-size: 1.4em
+}
+
+.education .timeline h2, .education .timeline h3 {
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-bottom: 10px
+}
+
+.education .timeline .event {
+    border-bottom: 1px dashed #e8ebf1;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    position: relative
+}
+
+.education .timeline .event p {
+    margin-bottom: 0;
+    font-size: 12px;
+    color: #d9d9d9;
+}
+
+@media (max-width:767px) {
+    .education .timeline .event {
+        padding-top: 30px
+    }
+}
+
+.education .timeline .event:last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none
+}
+
+.education .timeline .event:after, .education .timeline .event:before {
+    position: absolute;
+    display: block;
+    top: 0
+}
+
+.education .timeline .event:before {
+    left: -200px;
+    content: attr(data-date);
+    text-align: right;
+    font-weight: 100;
+    font-size: 0.9em;
+    min-width: 120px
+}
+
+.education .timeline .event:after {
+    box-shadow: 0 0 0 3px #727cf5;
+    left: -26px;
+    background: #fff;
+    border-radius: 50%;
+    height: 9px;
+    width: 9px;
+    content: "";
+    top: 5px
+}
+
+@media (max-width:767px) {
+    .education .timeline .event:before {
+        left: 0px;
+        text-align: left
+    }
+}
+
+@media (max-width:767px) {
+    .education .timeline .event:after {
+        left: -31.8px
+    }
+}
+
+.education .rtl .timeline {
+    border-left: 0;
+    text-align: right;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    border-right: 3px solid #727cf5
+}
+
+.education .rtl .timeline .event:before {
+    left: 0;
+    right: -170px
+}
+
+.education .rtl .timeline .event:after {
+    left: 0;
+    right: -55.8px
+}
+
+.achivements {
+    background-color: #121212
+}
+
+.achivements h2 {
+    position: relative;
+    padding-bottom: 10px
+}
+
+.achivements h2:after {
+    content: "";
+    position: absolute;
+    width: 6%;
+    height: 4px;
+    background-color: #727cf5;
+    left: 0;
+    bottom: 0
+}
+
+.achivements i {
+    font-size: 25px;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear
+}
+
+.achivements p {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.achivements span {
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #d9d9d9
+}
+
+@keyframes sparkle {
+    0% {
+        -webkit-transform: scale(.5);
+        -webkit-transform--ms-transform: scale(.5);
+        -webkit-transform--ms-transform-transform: scale(.5)
+    }
+
+    50% {
+        -webkit-transform: scale(1.3);
+        -webkit-transform--ms-transform: scale(1.3);
+        -webkit-transform--ms-transform-transform: scale(1.3)
+    }
+
+    to {
+        -webkit-transform: scale(.5);
+        -webkit-transform--ms-transform: scale(.5);
+        -webkit-transform--ms-transform-transform: scale(.5)
+    }
+}
+
+::selection {
+    color: white;
+    background: #727cf5
+}
+
+.footer {
+    background-color: #121212;
+    text-align: center;
+    font-size: 10px
+}
+
+.demo_pannel_box {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    display: block;
+    top: 180px;
+    left: 0;
+    text-align: center;
+    background: white;
+    z-index: 9999;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px
+}
+
+.demo_pannel_box .color_pannel_box {
+    width: 100%;
+    height: 100%
+}
+
+.demo_pannel_box .color_pannel_box .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+}
+
+.demo_pannel_box .color_pannel_box .icon i {
+    color: black;
+    font-size: 22px
+}
+
+.demo_pannel_box .color_pannel_box .color_bar {
+    width: 250px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background: #fff;
+    justify-content: space-between;
+    grid-column-gap: 0;
+    grid-row-gap: 10px;
+    padding: 20px;
+    -webkit-transform: translate(-252px, 0px);
+    -webkit-transform--ms-transform: translate(-252px, 0px);
+    -webkit-transform--ms-transform-transform: translate(-252px, 0px);
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out
+}
+
+.demo_pannel_box .color_pannel_box .color_bar span {
+    width: 60px;
+    height: 60px;
+    display: block;
+    cursor: pointer
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-1 {
+    background-color: #727cf5
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-2 {
+    background-color: #01C5C4
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-3 {
+    background-color: #32AFA9
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-4 {
+    background-color: #D8AC9C
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-5 {
+    background-color: #B7657B
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-6 {
+    background-color: #96BB7C
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-7 {
+    background-color: #666
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-8 {
+    background-color: #F0EBCC
+}
+
+.demo_pannel_box .color_pannel_box .color_bar .color-9 {
+    background-color: #EEEDDE
+}
+
+.demo_pannel_box .color_pannel_box .inout {
+    -webkit-transform: translate(0px, 0px) !important;
+    -webkit-transform--ms-transform: translate(0px, 0px) !important;
+    -webkit-transform--ms-transform-transform: translate(0px, 0px) !important;
+    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition: all 0.5s ease-in-out;
+    -webkit-transition--ms-transition-transition: all 0.5s ease-in-out
+}

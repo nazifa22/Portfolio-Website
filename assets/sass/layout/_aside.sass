@@ -12,7 +12,7 @@ aside
     background-position: center
     background-repeat: no-repeat
     position: relative
-    @include transition(all 0.5s ease-in-out)
+    transition: all 0.5s ease-in-out
     overflow: hidden
     cursor: pointer
 
@@ -20,14 +20,14 @@ aside
         height: 800px
 
     &:hover
-        @include transition(all 0.5s ease-in-out)
+        transition: all 0.5s ease-in-out
         @include transform(scale(1.03))
 
     .info 
         position: absolute
         bottom: 0
         width: 100%
-        background: rgba(0,0,0,0.5)
+        background: rgba(0,0,0,0.55)
         padding: 20px
         height: 115px
 
@@ -49,7 +49,7 @@ aside
                     margin-right: 10px
 
             i
-                @include transition(all 0.5s ease-in-out)
+                transition: all 0.5s ease-in-out
                 cursor: pointer
                 font-size: 14px
                 color: $primary_color
@@ -76,8 +76,9 @@ aside
     color: $primary_color
 
 .about_me
-    font-size: 15px
+    font-size: 12px
     font-weight: 400
+    line-height: 28px
 
     span
         font-size: 15px
@@ -113,11 +114,13 @@ aside
             background-color: $cod_gray
 
 .download_btn
-    @include transition(all 0.5s ease-in-out)
+    transition: all 0.5s ease-in-out
     background-color: $primary_color !important
     color: black
+    font-size: 14px
+    padding: 10px 22px
 
     &:hover
         color: black
-        @include transition(all 0.5s ease-in-out)
+        transition: all 0.5s ease-in-out
         @include transform(translateY(3px))
